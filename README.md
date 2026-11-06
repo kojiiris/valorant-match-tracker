@@ -111,8 +111,4 @@ Found a bug or have an idea? Open an [issue](../../issues). Screenshots help.
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Zephyr Hub" width="280">
-
-<sub>MONOCHROME. PRECISE. UNCOMPROMISING.</sub>
-
-</div>
+<img src="assets/signature.png" alt="Signature Zephyr Hub" width="280">
