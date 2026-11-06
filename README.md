@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Zephyr Hub" width="200">
-
-<br>
+<img src="assets/bannernobg.png" alt="Zephyr Hub" width="333">
 
 # ZEPHYR HUB
 
