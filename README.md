@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/bannernobg.png" alt="Zephyr Hub" width="333">
-
 # ZEPHYR HUB
 
 **An independent Valorant performance tracker, in black and white.**
