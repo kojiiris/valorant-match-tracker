@@ -10,8 +10,8 @@ Every round. Every edge. Your game, stripped down to the numbers.
 
 [![Download](https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF&logoColor=000000)](../../releases/latest)
 
-![Release](https://img.shields.io/github/v/release/USERNAME/REPO?style=flat-square&labelColor=000000&color=ffffff)
-![Downloads](https://img.shields.io/github/downloads/USERNAME/REPO/total?style=flat-square&labelColor=000000&color=ffffff)
+[![Release](https://img.shields.io/github/v/release/kojiiris/valorant-match-tracker?style=flat-square&label=RELEASE&labelColor=000000&color=333333)](../../releases/latest)
+[![kojiiris](https://img.shields.io/badge/-Author-333333?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/kojiiris)
 ![Not affiliated with Riot](https://img.shields.io/badge/NOT%20AFFILIATED%20WITH-RIOT%20GAMES-000000?style=flat-square&labelColor=000000&color=333333)
 
 </div>
