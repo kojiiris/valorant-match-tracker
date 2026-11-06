@@ -2,7 +2,7 @@
 
 # ZEPHYR HUB
 
-**An independent Valorant performance tracker, in black and white.**
+**An Independent Valorant Performance Match Tracker**
 
 Every round. Every edge. Your game, stripped down to the numbers.
 
